@@ -10,7 +10,7 @@ Resolvi criar esse repositório mesmo não realizando testes automatizados, pois
 ---
 
 ## 🔗 Link 1 - Certificação
-[Acesse aqui](https://qualidade.apprbs.com.br/certificacao)
+[Site 1 - Certificação](https://qualidade.apprbs.com.br/certificacao)
 
 ### **Item 01 - Botão "Saiba mais" inacessível**
 * **Tipo:** Correção
@@ -81,7 +81,7 @@ Resolvi criar esse repositório mesmo não realizando testes automatizados, pois
 ---
 
 ## 🔗 Link 2 - Site
-[Acesse aqui](https://qualidade.apprbs.com.br/site)
+[Site 2 - site](https://qualidade.apprbs.com.br/site)
 
 ### **Item 01 - Botão Atendimento vs WhatsApp**
 * **Tipo:** Correção
